@@ -3,6 +3,6 @@ package pro.niunai.openblive.pojo;
 /**
  *
  */
-public class config {
+public class Config {
 
 }
